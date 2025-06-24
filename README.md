@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Britney! 👋</h1>
 
 <p align="center">
-Aspiring Software Developer | Cybersecurity Explorer | Always Curious 
+Aspiring Software Developer | Digital Intrusionist | Always Curious 
 </p> 
 
 <p align="center">
