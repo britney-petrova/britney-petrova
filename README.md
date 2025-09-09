@@ -1,9 +1,12 @@
+<!-- friendly introduction -->
 <h1 align="center">Hi, I'm Britney! 👋</h1>
 
+<!-- short tagline centered below the header -->
 <p align="center">
 Aspiring Software Developer | Digital Intrusionist | Always Curious 
 </p> 
 
+<!-- tech stack represented with badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -15,6 +18,7 @@ Aspiring Software Developer | Digital Intrusionist | Always Curious
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
+<!-- About Me section with learning focus and interests -->
 ### 👩‍💻 About Me
 
 - 🎓 Currently learning and building in the fields of **Cybersecurity** and **Artificial Intelligence**
@@ -23,7 +27,8 @@ Aspiring Software Developer | Digital Intrusionist | Always Curious
   
 ---
 
+<!-- GitHub stats and language usage cards for profile activity overview -->
 ### 📊 My Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=britney-petrova&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=britney-petrova&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=britney-petrova&layout=compact&theme=github_dark&hide_border=true)
