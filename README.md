@@ -48,9 +48,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Revgent**](https://github.com/britney-petrova) | Production AI research agent — generates targeted search queries, runs results through a 5-stage filtering pipeline, and returns verified company intelligence via REST API | `Python` `FastAPI` `Claude API` `Tavily` |
-| [**Context OS**](https://github.com/britney-petrova) | AI-driven GTM intelligence platform automating blog generation, HubSpot TAM sync, and RSS ingestion across 1,765 target accounts | `Python` `GitHub Actions` `Supabase` `HubSpot API` `Webflow API` |
-| [**IPOS-SA · MedFlow**](https://github.com/MedFlow-Systems/IPOS-SA) | Pharmaceutical ordering backend built across 3 teams — owned account management end-to-end: auth, account lifecycle, payment reminders, discount plans, 31 JUnit 5 tests at 100% pass rate | `Java 23` `MySQL` `JUnit 5` `JDBC` |
+| [**Revgent**] | Production AI research agent — generates targeted search queries, runs results through a 5-stage filtering pipeline, and returns verified company intelligence via REST API | `Python` `FastAPI` `Claude API` `Tavily` |
+| [**Context OS**] | AI-driven GTM intelligence platform automating blog generation, HubSpot TAM sync, and RSS ingestion across 1,765 target accounts | `Python` `GitHub Actions` `Supabase` `HubSpot API` `Webflow API` |
+| [**IPOS-SA · MedFlow**] | Pharmaceutical ordering backend built across 3 teams — owned account management end-to-end: auth, account lifecycle, payment reminders, discount plans, 31 JUnit 5 tests at 100% pass rate | `Java 23` `MySQL` `JUnit 5` `JDBC` |
 | [**Job Postings Scraper**](https://github.com/britney-petrova/job-postings-scraper) | Automated weekly scraper collecting 40+ remote IT jobs with ~95% accuracy, formatted and emailed as a digest | `Python` `BeautifulSoup` `CSV` |
 
 ---
