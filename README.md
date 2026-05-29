@@ -10,9 +10,11 @@
   <a href="https://www.linkedin.com/in/britney-petrova-1184a632b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:petrovabritney@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://britney-petrova.github.io/personal-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
@@ -44,11 +46,50 @@
 
 ### 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **Revgent** | Production AI research agent — generates targeted search queries, runs results through a 5-stage filtering pipeline, and returns verified company intelligence via REST API | `Python` `FastAPI` `Claude API` `Tavily` |
-| **Context OS** | AI-driven GTM intelligence platform automating blog generation, HubSpot TAM sync, and RSS ingestion across 1,765 target accounts | `Python` `GitHub Actions` `Supabase` `HubSpot API` `Webflow API` |
-| **IPOS-SA · MedFlow** | Pharmaceutical ordering backend built across 3 teams — owned account management end-to-end: auth, account lifecycle, payment reminders, discount plans, 31 JUnit 5 tests at 100% pass rate | `Java 23` `MySQL` `JUnit 5` `JDBC` |
-| [**Job Postings Scraper**](https://github.com/britney-petrova/job-postings-scraper) | Automated weekly scraper collecting 40+ remote IT jobs with ~95% accuracy, formatted and emailed as a digest | `Python` `BeautifulSoup` `CSV` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Revgent</h3>
+      <p>Production AI research agent that generates targeted search queries, filters results through a 5-stage pipeline (date, credibility, keyword, LLM relevance, hard-facts), and returns verified company intelligence via REST API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_API-6B4FBB?style=flat&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tavily-FF6B35?style=flat&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Context OS</h3>
+      <p>AI-driven GTM intelligence platform connecting HubSpot, Supabase, Webflow, and Slack. Automated pipelines handle blog generation every Monday, TAM sync every Sunday, and RSS ingestion every 6 hours across 1,765 target accounts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 IPOS-SA · MedFlow</h3>
+      <p>Pharmaceutical ordering backend built across 3 teams (7 developers). Owned the account management package end-to-end — authentication, account lifecycle, 2-stage payment reminders, tiered discount plans. 31 JUnit 5 tests at 100% pass rate.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_23-007396?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=openjdk&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/britney-petrova/job-postings-scraper">📋 Job Postings Scraper</a></h3>
+      <p>Automated weekly scraper collecting 40+ remote IT jobs from We Work Remotely with ~95% accuracy. Formats results and sends an email digest — built to solve my own problem of manual job searching.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSV-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
