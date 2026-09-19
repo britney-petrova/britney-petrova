@@ -24,7 +24,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Second-year CS undergrad at **City St George's, University of London** — 78.1% Y1 · 72.3% Y2, both First-Class
+- 🎓 Second-year CS undergrad at **City St George's, University of London** — 78.1% Y1, 72.3% Y2
 - 🧲 Just wrapped up an **Applied AI R&D internship at Clarivate** — built a full-stack materials intelligence engine from scratch, scoring 6 rare-earth magnet substitutes across research maturity, supply chain stability, and cost viability, with reasoning validated at 93% accuracy
 - 🤖 Previously a Junior SWE at **Revenanas**, building production AI agents and automated data pipelines
 - ☕ Built a **pharmaceutical ordering backend** in Java 23 as part of a 7-person, 3-team SWE project, owning the account management package end-to-end with 31 JUnit 5 tests at 100% pass rate
@@ -62,6 +62,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Revgent</h3>
+      <p><em>Revenanas · Junior SWE · Contract</em></p>
       <p>Production AI research agent that generates targeted search queries, filters results through a 5-stage pipeline (date, credibility, keyword, LLM relevance, hard-facts), and returns verified company intelligence via REST API.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
