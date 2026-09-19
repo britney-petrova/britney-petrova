@@ -24,7 +24,7 @@
 
 ### 👩‍💻 About Me
 
-- Second-year CS undergrad at **City St George's, University of London** — 78.1% Y1 · 72.3% Y2, both First-Class
+- Second-year CS undergrad at **City St George's, University of London** — 78.1% Y1 · 72.3% Y2
 - Just wrapped up an **Applied AI R&D internship at Clarivate** — built a full-stack materials intelligence engine from scratch, scoring 6 rare-earth magnet substitutes across research maturity, supply chain stability, and cost viability, with reasoning validated at 93% accuracy
 - Previously a Junior SWE at **Revenanas**, building production AI agents and automated data pipelines
 - Built a **pharmaceutical ordering backend** in Java 23 as part of a 7-person, 3-team SWE project, owning the account management package end-to-end with 31 JUnit 5 tests at 100% pass rate
@@ -44,7 +44,6 @@
 | **DevOps & Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Unix](https://img.shields.io/badge/Unix-004289?style=flat&logo=gnubash&logoColor=white) |
 | **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white) ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-0078D7?style=flat&logoColor=white) |
-| **Concepts** | OOP · Algorithms · Data Structures · Async Programming · Web Scraping · Caching & Retry Patterns · Unit Testing (JUnit 5) · Layered Architecture |
 
 ---
 
@@ -65,6 +64,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>Revgent</h3>
+      <p><em>Revenanas · Applied AI R&D Internship</em></p>
       <p>Production AI research agent that generates targeted search queries, filters results through a 5-stage pipeline (date, credibility, keyword, LLM relevance, hard-facts), and returns verified company intelligence via REST API.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
