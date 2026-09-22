@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6B4FBB&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+City+St+George's+%7C+First-Class;Applied+AI+R%26D+Intern+%40+Clarivate;Building+AI+Systems+%26+Materials+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6B4FBB&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+City+St+George's+%7C+First-Class;Ex-Applied+AI+R%26D+Intern+%40+Clarivate;Building+AI+Systems+%26+Materials+Intelligence" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>Revgent</h3>
-      <p><em>Revenanas · Applied AI R&D Internship</em></p>
+      <p><em>Revenanas · Junior SWE · Contract</em></p>
       <p>Production AI research agent that generates targeted search queries, filters results through a 5-stage pipeline (date, credibility, keyword, LLM relevance, hard-facts), and returns verified company intelligence via REST API.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
