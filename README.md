@@ -77,6 +77,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Context OS</h3>
+      <p><em>Revenanas · Junior SWE · Contract</em></p>
       <p>AI-driven GTM intelligence platform connecting HubSpot, Supabase, Webflow, and Slack. Automated pipelines handle blog generation every Monday, TAM sync every Sunday, and RSS ingestion every 6 hours across 1,765 target accounts.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -87,6 +88,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>IPOS-SA · MedFlow</h3>
+      <p><em>City St George's, University of London · Group project · Grade: 90% </em></p>
       <p>Pharmaceutical ordering backend built across 3 teams (7 developers). Owned the account management package end-to-end — authentication, account lifecycle, 2-stage payment reminders, tiered discount plans. 31 JUnit 5 tests at 100% pass rate.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_23-007396?style=flat&logo=openjdk&logoColor=white"/>
