@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Britney! 👋</h1>
-
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6B4FBB&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+City+St+George's+%7C+First-Class;Ex-Applied+AI+R%26D+Intern+%40+Clarivate;Building+AI+Systems+%26+Materials+Intelligence" alt="Typing SVG" />
